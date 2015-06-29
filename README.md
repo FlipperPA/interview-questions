@@ -3,7 +3,7 @@
 
 Questions to ask in a technology organization when interviewing candidates.
 
-## Things to check for preparedness
+## Items to Check for Preparedness
 
 - [ ] Brought a printed resume
 - [ ] Brought a printed cover letter
